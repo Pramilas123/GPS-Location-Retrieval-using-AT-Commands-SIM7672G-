@@ -14,6 +14,7 @@ Parse and extract relevant location information
 This approach is useful for embedded systems, IoT devices, and applications where a lightweight and direct method of GPS data acquisition is required.
 
 ⚙️ Features
+
 AT command-based GNSS control
 Retrieval of raw NMEA sentences (e.g., $GPGGA, $GPRMC)
 Parsing of GPS data (latitude, longitude, UTC time, fix status)
